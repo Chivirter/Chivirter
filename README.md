@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chivirter
 - 👀 I’m interested in 3D Design/Printing and Power Electronics related software packages.
-- 🌱 I’m currently learning microcontroller based multilevel power converters.
+- 🌱 I’m currently learning Machine Learning based multilevel power converter Control.
 - 💞️ I’m looking to collaborate on 3D design/Printing, Switched Mode Power Supplies, Industrial Electronics and New Energy Systems.
 - 📫 How to reach me wchivirter@gmail.com
 
