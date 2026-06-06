@@ -22,7 +22,7 @@ On average, our predictions deviate from the actual energy output by only about 
 _Technical Note: The model was built using Linear Regression, trained on a dataset covering three primary weather variables: Temperature, Irradiance, and Humidity._
 
 Visualising the Results
-![Actual vs Predicted Energy Output](model_performance.png)
+![Actual vs Predicted Energy Output](model_performance-II.png)
 *The graph above demonstrates how closely our model's predictions align with actual energy generation.*
 
 How to Run
